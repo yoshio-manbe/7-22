@@ -2,9 +2,9 @@
 7・２２
 
 ## ①課題内容（どんな作品か）
-export FLASK_APP=flaskr
-export FLASK_ENV=development
-export OPENAI_API_KEY=###
+- export FLASK_APP=flaskr
+- export FLASK_ENV=development
+- export OPENAI_API_KEY=###
 - pythonとchatGPTを使って、文章から５w１hを抜き出す。
 - 履歴は作ろうと思ったのですが、中断しました。
 
